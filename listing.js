@@ -6,6 +6,7 @@ var properties = [
 	'total',
 ];
 
+
 $.each( properties, function( i, val ) {
 
 	var orderClass = '';
