@@ -1,6 +1,6 @@
 body{
     font-family: "Helvetica", sans-serif;
-    font-size: 16px/22px;
+    font-size: 18px/22px;
     color: #333;
 }
 h1,h2,h3,h4,h5,h6{
@@ -9,13 +9,13 @@ h1,h2,h3,h4,h5,h6{
     color: #3B80FF;
 }
 h1{
-    font-size: 2em;
+    font-size: 3em;
 }
 h2{
     font-size: 1.8em;
 }
 h3{
-    font-size: 1.6em;
+    font-size: 2.6em;
 }
 h4{
     font-size: 1.4em;
