@@ -2,7 +2,7 @@ body{
     font-family: "Helvetica", sans-serif;
     font-size: 16px/22px;
     color: #333;
-    background-color: grey;	
+    background-color: grey;
 }
 h1,h2,h3,h4,h5,h6{
     font-family: "Raleway", serif;
@@ -28,7 +28,11 @@ h6{
     font-size: 1em;
 }
 
-p {
-	font-weight: bold;
+hr {
+    color: chocolate ;
 }
 
+p{
+    font-size: 12px;
+    font-weight: bold;
+}
